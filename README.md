@@ -85,7 +85,7 @@
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/openshift/openshift-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/redhat-developer/intellij-openshift-connector/master/src/main/resources/images/openshift_extension.png"  width="60" height="60"/>&nbsp;
 <br />
 
 

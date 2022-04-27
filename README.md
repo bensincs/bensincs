@@ -68,17 +68,17 @@
 <br />
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"width="60" height="60" title="title" alt="alt"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="60" height="60" title="title" alt="alt"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="60" height="60"/>&nbsp;
 <br />
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git Hub" alt="Git Hub" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"  width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azdo/azdo-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
 
 

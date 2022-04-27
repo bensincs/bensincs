@@ -19,8 +19,8 @@
 </div> 
 
 ## 🏌️‍♂️ About Me
-- I am currently a Senior Software Engineer in the civil service. 
-- I am a director of Lunite LTD where we help develop application for causes close to our hearts. 
+- I am currently a Senior Software Engineer in the civil service
+- I am a director of Lunite LTD where we help develop application for causes close to our hearts
 - When im not developing software, you'll find me on the Golf Course ⛳ , Playing Music 🎸 or training JiuJitsu 🥋
 
 ## ☎️ How to Contact Me
@@ -30,40 +30,31 @@
 - I would prefer to only use email for formal communications where possible
 
 ## 👨‍💻 Preferred Working Style
-- I am very flexible with my work, i am happy to work as early or late as needed
+- I am very flexible with my work, I am happy to work as early or late as needed
 - All I ask is there is a chance for me to do a bit of exercise each day
 - I work well in groups, happy to facilite discussions or present to larger audiences
-- I Enjoy pair and mob programming however i am also happy to go it alone. 
+- I enjoy pair and mob programming however I am also happy to go it alone
 
 ## 🙂 What Motivates Me
-<details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
-</details>
+- The idea of learning somthing new! Growth is always a good thing
+- Seeing direct business beneift
+- Seeing others improve as a result of my support and mentoring
 
 ## 🥱 What Demotivates Me
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
-</details>
+- Repetative, tedious, repetative, tedious, repetative, tedious tasks
+- Working on a product with no access to customers/stakeholders
 
 ## 💙 My Values (and what I value in others)
-<details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
-</details>
+- Honesty 
+- Transparency 
+- A 'Work Hard' work ethic
 
 ## 👨‍🦯 My Blind Spots
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
+- I sometimes find it hard to delegate to those I have not buit up trust with. I make it a priority to build trust with those arount me to mitigate this.
 
 ## 😠 My Pet Peeves
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
-</details>
+- Not giving others a chance to be heard. Everyones voice is valuable and those that dont allow other speak cant be a detriment to the team. 
+- Guessing... sometimes... when people make things up when they dont know an answer rather than looking to the room for additional knowledge.
 
 ---
 

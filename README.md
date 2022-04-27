@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
- # Hi, I'm Ben Sinclair!
+ # Hi, I'm Ben Sinclair! ( I have just started this profile so dont judge it too much )
   
 <div id="badges">
   <a href="your-linkedin-URL">

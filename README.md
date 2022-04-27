@@ -25,7 +25,7 @@ I am a Full Stack Developer from the UK, currently working for the Civil Service
 
 - :seedling: Learning new technologies is my passion.
 
-- :zap: In run a company called Lunite Ltd where we help build applications for causes close to our hearts.
+- :zap: In run a small company called Lunite Ltd where we help build applications for causes close to our hearts.
 
 - :mailbox: How to reach me: ben@sincs.co.uk
 

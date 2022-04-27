@@ -17,7 +17,7 @@ Hey there! :smile: My name is Ben. I'm a 👶 23-year-old 💻 software engineer
 
 
   
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensincs&count_private=true&hide=stars,contribs)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensincs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensincs)](https://github.com/anuraghazra/github-readme-stats)
 
 

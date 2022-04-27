@@ -10,4 +10,4 @@ Hey there! :smile: My name is Ben. I'm a 23-year-old software engineer in Manche
 
 <hr/>
 
-:star: From [@BenSincs](https://github.combensincs)
+:star: From [@BenSincs](https://github.com/bensincs)

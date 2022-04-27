@@ -1,24 +1,13 @@
-<h1 align="center">Hi, I'm Ben Sinclair! :stars:</h1>
+<h1 align="center">Hi, I'm Ben Sinclair! 🎸:</h1>
 
-![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Ben. I'm a 23-year-old software engineer from Nottinghamshire UK. I currently reside in Manchester UK. 
+Hey there! :smile: My name is Ben. I'm a 23-year-old software engineer in Manchester United Kingdom 🇬🇧. 
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
 <hr/>
 
 :star: From [@BenSincs](https://github.combensincs)
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->

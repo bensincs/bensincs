@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
- # Hi, I'm Ben Sinclair! ( I have just started this profile so dont judge it too much )
+ # Hi, I'm Ben Sinclair!
   
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -30,10 +30,10 @@
 - I would prefer to only use email for formal communications where possible
 
 ## 👨‍💻 Preferred Working Style
-<details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
-</details>
+- I am very flexible with my work, i am happy to work as early or late as needed
+- All I ask is there is a chance for me to do a bit of exercise each day
+- I work well in groups, happy to facilite discussions or present to larger audiences
+- Enjoy pair and mo programming however i am also happy to go it alone. 
 
 ## 🙂 What Motivates Me
 <details>

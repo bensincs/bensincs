@@ -33,7 +33,7 @@ I am a Full Stack Developer from the UK, currently working for the Civil Service
 
 - :zap: In run a company call Lunite Ltd where we help build applications for causes close to our hearts.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Mail&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: Mail:(mailto:ben@sincs.co.uk)
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 

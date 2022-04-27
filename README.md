@@ -79,13 +79,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"  width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" width="60" height="60" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azdo/azdo-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
 
 
 <br />
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/openshift/openshift-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
 <br />
 
 

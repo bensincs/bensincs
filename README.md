@@ -17,16 +17,13 @@
 <img src="https://komarev.com/ghpvc/?username=bensincs&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  Hi, I'm Ben Sinclair!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+ # Hi, I'm Ben Sinclair!
+
   
 </div> 
 
----
-
-### 👨‍💻: About Me :
+### 👨‍💻 About Me :
 I am a Full Stack Developer from the UK, currently working for the Civil Service on Cloud Platforms and Services.
 
 - :telescope: I’m working as a Senior Software Engineer.
@@ -38,6 +35,6 @@ I am a Full Stack Developer from the UK, currently working for the Civil Service
 - :mailbox: How to reach me: ben@sincs.co.uk
 
 
----
+<hr />
 
 :star: From [@BenSincs](https://github.com/bensincs)

@@ -71,7 +71,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 <br />
 
 

@@ -33,7 +33,7 @@
 - I am very flexible with my work, i am happy to work as early or late as needed
 - All I ask is there is a chance for me to do a bit of exercise each day
 - I work well in groups, happy to facilite discussions or present to larger audiences
-- Enjoy pair and mo programming however i am also happy to go it alone. 
+- I Enjoy pair and mob programming however i am also happy to go it alone. 
 
 ## 🙂 What Motivates Me
 <details>
@@ -67,7 +67,7 @@ Optional Section: It might be tempting to use this section to vent, that's absol
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools (will fill these out at some point):
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;

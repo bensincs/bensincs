@@ -16,11 +16,6 @@
 Hey there! :smile: My name is Ben. I'm a 👶 23-year-old 💻 software engineer in Manchester United Kingdom 🇬🇧. I work as a senior software egnineer for the Civil Service as well as run my own software company, Lunite Ltd.
 
 
-  
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensincs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensincs)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
 <hr/>

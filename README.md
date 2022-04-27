@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Ben Sinclair! 🎸</h1>
 
-<div align="center">
- 
-</div>
-
-
 ## About Me :wave:
 
 Hey there! :smile: My name is Ben. I'm a 👶 23-year-old 💻 software engineer in Manchester United Kingdom 🇬🇧. I work as a senior software egnineer for the Civil Service as well as run my own software company, Lunite Ltd.

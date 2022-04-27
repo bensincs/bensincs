@@ -61,10 +61,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="60" height="60"/>&nbsp;
-    <br />
+  <br />
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="60" height="60"/>&nbsp;
 <br />
 
 
@@ -75,9 +75,9 @@
 <br />
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git Hub" alt="Git Hub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git Hub" alt="Git Hub" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azdo/azdo-original.svg" width="60" height="60" title="title" alt="alt"/>&nbsp;
 
@@ -85,7 +85,7 @@
 <br />
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
 <br />
 
 

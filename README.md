@@ -25,7 +25,7 @@
 
 ## ☎️ How to Contact Me
 - There is nothing better that talking face to face
-- Voice or video calls are the next best method of communications for me
+- Voice or video calls are the next best thing
 - I am always happy to recieve messages on teams or slack
 - I would prefer to only use email for formal communications where possible
 

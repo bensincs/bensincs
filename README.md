@@ -26,22 +26,22 @@
 ## ☎️ How to Contact Me
 - There is nothing better that talking face to face
 - Voice or video calls are the next best thing
-- I am always happy to recieve messages on teams or slack
+- I am always happy to receive messages on teams or slack
 - I would prefer to only use email for formal communications where possible
 
 ## 👨‍💻 Preferred Working Style
 - I am very flexible with my work, I am happy to work as early or late as needed
 - All I ask is there is a chance for me to do a bit of exercise each day
-- I work well in groups, happy to facilite discussions or present to larger audiences
+- I work well in groups, happy to facilitate discussions or present to larger audiences
 - I enjoy pair and mob programming however I am also happy to go it alone
 
 ## 🙂 What Motivates Me
-- The idea of learning somthing new! Growth is always a good thing
-- Seeing direct business beneift
+- The idea of learning something new! Growth is always a good thing
+- Seeing direct business benefit
 - Seeing others improve as a result of my support and mentoring
 
 ## 🥱 What Demotivates Me
-- Repetative, tedious, repetative, tedious, repetative, tedious tasks
+- Repetitive, tedious, repetitive, tedious, repetitive, tedious tasks
 - Working on a product with no access to customers/stakeholders
 
 ## 💙 My Values (and what I value in others)
@@ -50,11 +50,11 @@
 - A 'Work Hard' work ethic
 
 ## 👨‍🦯 My Blind Spots
-- I sometimes find it hard to delegate to those I have not buit up trust with. I make it a priority to build trust with those arount me to mitigate this.
+- I sometimes find it hard to delegate to those I have not built up trust with. I make it a priority to build trust with those arount me to mitigate this.
 
 ## 😠 My Pet Peeves
-- Not giving others a chance to be heard. Everyones voice is valuable and those that dont allow other speak cant be a detriment to the team. 
-- Guessing... sometimes... when people make things up when they dont know an answer rather than looking to the room for additional knowledge.
+- Not giving others a chance to be heard. Everyone's voice is valuable and those that don't allow other speak cant be a detriment to the team. 
+- Guessing... sometimes... when people make things up when they don't know an answer rather than looking to the room for additional knowledge.
 
 ---
 

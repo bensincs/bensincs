@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Ben. I'm a 👶 23-year-old 💻 Software Engineer in Manchester United Kingdom 🇬🇧. 
+Hey there! :smile: My name is Ben. I'm a 23-year-old 👶 Software Engineer 💻 in Manchester, United Kingdom 🇬🇧. 
 
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->

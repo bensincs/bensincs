@@ -19,16 +19,15 @@
 </div> 
 
 ## 🏌️‍♂️ About Me
-<details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
-</details>
+- I am currently a Senior Software Engineer in the civil service. 
+- I am a director of Lunite LTD where we help develop application for causes close to our hearts. 
+- When im not developing software, you'll find me on the Golf Course ⛳ , Playing Music 🎸 or training JiuJitsu 🥋
 
 ## ☎️ How to Contact Me
-<details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
-</details>
+- There is nothing better that talking face to face
+- Voice or video calls are the next best method of communications for me
+- I am always happy to recieve messages on teams or slack
+- I would prefer to only use email for formal communications where possible
 
 ## 👨‍💻 Preferred Working Style
 <details>

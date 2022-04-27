@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+ # Hi, I'm Ben Sinclair!
+  
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,12 +15,7 @@
 </div>
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=bensincs&style=flat-square&color=blue" alt=""/>
-</div>
-
-
- # Hi, I'm Ben Sinclair!
-
-  
+</div>  
 </div> 
 
 ### 👨‍💻 About Me :

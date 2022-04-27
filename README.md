@@ -22,7 +22,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
-</div>
+</div> 
+
+---
 
 ### 👨‍💻: About Me :
 I am a Full Stack Developer from the UK, currently working for the Civil Service on Cloud Platforms and Services.
@@ -31,12 +33,11 @@ I am a Full Stack Developer from the UK, currently working for the Civil Service
 
 - :seedling: Learning new technologies is my passion.
 
-- :zap: In run a company call Lunite Ltd where we help build applications for causes close to our hearts.
+- :zap: In run a company called Lunite Ltd where we help build applications for causes close to our hearts.
 
-- :mailbox:How to reach me: ben@sincs.co.uk
+- :mailbox: How to reach me: ben@sincs.co.uk
 
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
-<hr/>
+---
 
 :star: From [@BenSincs](https://github.com/bensincs)

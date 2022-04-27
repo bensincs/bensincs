@@ -64,7 +64,7 @@
   <br />
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="60" height="60"/>&nbsp;
 <br />
 
 

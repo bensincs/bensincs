@@ -49,11 +49,11 @@
 - A 'Work Hard' work ethic
 
 ## 👨‍🦯 My Blind Spots
-- I sometimes find it hard to delegate to those I have not built up trust with. I make it a priority to build trust with those around me to mitigate this.
+- I sometimes find it hard to delegate to those I have not built up trust with. I make it a priority to build trust with those around me to mitigate this
 
 ## 😠 My Pet Peeves
-- Not giving others a chance to be heard. Everyone's voice is valuable and those that don't allow others to speak cant be a detriment to the team. 
-- Guessing... sometimes... when people make things up when they don't know an answer rather than looking to the room for additional knowledge.
+- Not giving others a chance to be heard. Everyone's voice is valuable and those that don't allow others to speak cant be a detriment to the team
+- Guessing... sometimes... when people make things up when they don't know an answer rather than looking to the room for additional knowledge
 
 ---
 

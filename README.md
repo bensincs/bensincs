@@ -18,14 +18,14 @@
 </div> 
 
 ## 🏌️‍♂️ About Me
-- I am currently a Senior Software Engineer in the civil service
-- I am a director of Lunite LTD where we help develop application for causes close to our hearts
-- When im not developing software, you'll find me on the Golf Course ⛳ , Playing Music 🎸 or training JiuJitsu 🥋
+- I am currently a Senior Software Engineer in the Civil Service
+- I am a director of Lunite LTD, where we help develop applications for causes close to our hearts
+- When I'm not developing software, you'll find me on the Golf Course ⛳ , Playing Music 🎸 or training JiuJitsu 🥋
 
 ## ☎️ How to Contact Me
 - There is nothing better that talking face to face
 - Voice or video calls are the next best thing
-- I am always happy to receive messages on teams or slack
+- I am always happy to receive messages on Teams or Slack
 - I would prefer to only use email for formal communications where possible
 
 ## 👨‍💻 Preferred Working Style
@@ -49,10 +49,10 @@
 - A 'Work Hard' work ethic
 
 ## 👨‍🦯 My Blind Spots
-- I sometimes find it hard to delegate to those I have not built up trust with. I make it a priority to build trust with those arount me to mitigate this.
+- I sometimes find it hard to delegate to those I have not built up trust with. I make it a priority to build trust with those around me to mitigate this.
 
 ## 😠 My Pet Peeves
-- Not giving others a chance to be heard. Everyone's voice is valuable and those that don't allow other speak cant be a detriment to the team. 
+- Not giving others a chance to be heard. Everyone's voice is valuable and those that don't allow others to speak cant be a detriment to the team. 
 - Guessing... sometimes... when people make things up when they don't know an answer rather than looking to the room for additional knowledge.
 
 ---

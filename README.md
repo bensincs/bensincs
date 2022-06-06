@@ -19,7 +19,6 @@
 
 ## 🏌️‍♂️ About Me
 - I am currently a Senior Software Engineer in the Civil Service
-- I am a director of Lunite LTD, where we help develop applications for causes close to our hearts
 - When I'm not developing software, you'll find me on the Golf Course ⛳ , Playing Music 🎸 or training JiuJitsu 🥋
 
 ## ☎️ How to Contact Me

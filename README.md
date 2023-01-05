@@ -18,7 +18,7 @@
 </div> 
 
 ## 🏌️‍♂️ About Me
-- I am currently a Senior Software Engineer in the Civil Service
+- I am currently a Senior Software Engineer at Microsoft
 - When I'm not developing software, you'll find me on the Golf Course ⛳ , Playing Music 🎸 or training JiuJitsu 🥋
 
 ## ☎️ How to Contact Me
@@ -46,22 +46,5 @@
 - Honesty 
 - Transparency 
 - A 'Work Hard' work ethic
-
-## 👨‍🦯 My Blind Spots
-- I sometimes find it hard to delegate to those I have not built up trust with. I make it a priority to build trust with those around me to mitigate this
-
-## 😠 My Pet Peeves
-- Not giving others a chance to be heard. Everyone's voice is valuable and those that don't allow others to speak cant be a detriment to the team
-- Guessing... sometimes... when people make things up when they don't know an answer rather than looking to the room for additional knowledge
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bensincs&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensincs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 :star: From [@BenSincs](https://github.com/bensincs)

@@ -26,7 +26,7 @@
 ## ☎️ How to Contact Me
 - There is nothing better that talking face to face
 - Voice or video calls are the next best thing
-- I am always happy to receive messages on Teams or Slack
+- I am always happy to receive messages on Teams
 - I would prefer to only use email for formal communications where possible
 
 ## 👨‍💻 Preferred Working Style

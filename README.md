@@ -35,6 +35,10 @@
 - I work well in groups, happy to facilitate discussions or present to larger audiences
 - I enjoy pair and mob programming however I am also happy to go it alone
 
+## ⚙️ Im working on it
+- Sometimes my "work hard" work ethic can result in focusing on project goals over sharing knowledge. I'm working on it. 
+- I have like to have my fingers in all the pies 🥧. I'm working on trusting others so i can take some out. 
+ 
 ## 🙂 What Motivates Me
 - The idea of learning something new! Growth is always a good thing
 - Seeing direct business benefit

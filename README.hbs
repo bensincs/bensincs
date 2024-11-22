@@ -1,8 +1,8 @@
 <div id="header" align="center">
 
-  <img src="./pp.jpg" alt="Ben Sinclair" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;"/>
+  <img src="./ppmsft.png" alt="Ben Sinclair" width="200" height="200"/>
 
- # Hi, I'm Ben Sinclair!
+ # Ben Sinclair
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I work at Microsoft as a Software Engineer. I'm experienced in building full-stack applications, and i am passionate about learning new technologies and frameworks.
 
